@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "timefreeze",
+  "id": "easybotgui",
   "version": "${version}",
-  "name": "Time Perception Freeze",
-  "description": "Zatrzymanie Percepcji Czasu - wizualne zamrozenie obrazu gracza przy dzialajacym swiecie i dzwiekach.",
+  "name": "EasyBot GUI",
+  "description": "Ciemne menu GUI bota w stylu EasyBot (konsola, zakładki, przyciski).",
   "authors": ["DevCode"],
-  "license": "All-Rights-Reserved",
+  "license": "MIT",
   "environment": "client",
   "entrypoints": {
-    "client": ["com.devcode.timefreeze.TimeFreezeClient"]
+    "client": ["pl.easybot.EasyBotClient"]
   },
   "depends": {
     "fabricloader": ">=0.16.10",
