@@ -1,0 +1,17 @@
+{
+  "key.categories.timefreeze": "Time Perception Freeze",
+  "key.timefreeze.open_gui": "Open mod GUI",
+  "key.timefreeze.toggle": "Toggle screen freeze",
+  "gui.timefreeze.title": "Time Perception Freeze",
+  "gui.timefreeze.brightness": "Brightness: %s",
+  "gui.timefreeze.freeze": "Screen freeze: %s",
+  "gui.timefreeze.lock_move": "Lock movement & actions: %s",
+  "gui.timefreeze.lock_camera": "Lock camera: %s",
+  "gui.timefreeze.use_saved": "Use saved position: %s",
+  "gui.timefreeze.save": "Save position & state",
+  "gui.timefreeze.done": "Close",
+  "gui.timefreeze.on": "ON",
+  "gui.timefreeze.off": "OFF",
+  "msg.timefreeze.saved": "Camera position and freeze state saved.",
+  "hud.timefreeze.frozen": "SCREEN FROZEN"
+}

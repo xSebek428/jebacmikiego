@@ -1,0 +1,17 @@
+{
+  "key.categories.timefreeze": "Zatrzymanie Percepcji Czasu",
+  "key.timefreeze.open_gui": "Otwórz GUI moda",
+  "key.timefreeze.toggle": "Włącz/wyłącz zamrożenie obrazu",
+  "gui.timefreeze.title": "Zatrzymanie Percepcji Czasu",
+  "gui.timefreeze.brightness": "Jasność: %s",
+  "gui.timefreeze.freeze": "Zamrożenie obrazu: %s",
+  "gui.timefreeze.lock_move": "Blokuj ruch i akcje: %s",
+  "gui.timefreeze.lock_camera": "Blokuj kamerę: %s",
+  "gui.timefreeze.use_saved": "Użyj zapisanej pozycji: %s",
+  "gui.timefreeze.save": "Zapisz pozycję i stan",
+  "gui.timefreeze.done": "Zamknij",
+  "gui.timefreeze.on": "WŁ.",
+  "gui.timefreeze.off": "WYŁ.",
+  "msg.timefreeze.saved": "Zapisano pozycję kamery i stan zamrożenia.",
+  "hud.timefreeze.frozen": "OBRAZ ZAMROŻONY"
+}
